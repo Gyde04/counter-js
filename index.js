@@ -8,4 +8,5 @@ let count = 0;
 
 increaseBtn.onclick = function() {
     count++
+    countLabel.textContent = count;
 }
