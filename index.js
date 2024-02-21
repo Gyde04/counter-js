@@ -17,5 +17,5 @@ decreaseBtn.onclick = function() {
 }
 
 resetBtn.onclick = function() {
-//  count = 0   
+ count = 0   
 }
